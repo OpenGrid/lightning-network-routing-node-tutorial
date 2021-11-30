@@ -40,3 +40,4 @@ W miarę budowania płynności i nawiązywania relacji możesz korzystać z nast
 * [Terminal Web](https://terminal.lightning.engineering/)
 * [lnchannels](https://ln.fiatjaf.com/)
 * [Amboss Space](https://www.amboss.space/)
+* [LNRouter](https://lnrouter.app/app/lookups)
