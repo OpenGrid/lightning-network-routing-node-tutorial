@@ -41,3 +41,7 @@ W miarę budowania płynności i nawiązywania relacji możesz korzystać z nast
 * [lnchannels](https://ln.fiatjaf.com/)
 * [Amboss Space](https://www.amboss.space/)
 * [LNRouter](https://lnrouter.app/app/lookups)
+* [LN Node Insight](https://lnnodeinsight.com)
+* [1ml.com](https://1ml.com)
+* [LightningNetwork+](https://lightningnetwork.plus/)
+
